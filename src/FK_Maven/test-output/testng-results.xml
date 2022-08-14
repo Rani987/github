@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-06T16:24:07 IST" name="Default suite" finished-at="2022-08-06T16:24:39 IST" duration-ms="31650">
+    <groups>
+    </groups>
+    <test started-at="2022-08-06T16:24:07 IST" name="Default test" finished-at="2022-08-06T16:24:39 IST" duration-ms="31650">
+      <class name="FkTest.FkTestClass">
+        <test-method is-config="true" signature="initializeFk()[pri:0, instance:FkTest.FkTestClass@21282ed8]" started-at="2022-08-06T16:24:07 IST" name="initializeFk" finished-at="2022-08-06T16:24:22 IST" duration-ms="14226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeFk -->
+        <test-method is-config="true" signature="login()[pri:0, instance:FkTest.FkTestClass@21282ed8]" started-at="2022-08-06T16:24:22 IST" name="login" finished-at="2022-08-06T16:24:35 IST" duration-ms="13345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="rating()[pri:0, instance:FkTest.FkTestClass@21282ed8]" started-at="2022-08-06T16:24:35 IST" name="rating" finished-at="2022-08-06T16:24:39 IST" duration-ms="3861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rating -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:FkTest.FkTestClass@21282ed8]" started-at="2022-08-06T16:24:39 IST" name="logOut" finished-at="2022-08-06T16:24:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:FkTest.FkTestClass@21282ed8]" started-at="2022-08-06T16:24:39 IST" name="closeBrowser" finished-at="2022-08-06T16:24:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- FkTest.FkTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
